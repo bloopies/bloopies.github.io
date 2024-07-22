@@ -1,0 +1,29 @@
+/* Set the background color of the entire website */
+body {
+    background-color: #f0f8ff; /* AliceBlue background color */
+    color: #333333; /* Dark gray text color */
+    font-family: 'Arial', sans-serif; /* Arial font */
+}
+
+/* Set specific styles for headings */
+h1, h2, h3, h4, h5, h6 {
+    color: #005f6b; /* Dark cyan text color */
+    font-family: 'Georgia', serif; /* Georgia font */
+}
+
+/* Set specific styles for paragraphs */
+p {
+    color: #555555; /* Lighter gray text color */
+    font-family: 'Verdana', sans-serif; /* Verdana font */
+}
+
+/* Example of styling links */
+a {
+    color: #ff4500; /* OrangeRed color for links */
+    text-decoration: none; /* Remove underline from links */
+}
+
+a:hover {
+    text-decoration: underline; /* Underline links on hover */
+}
+
