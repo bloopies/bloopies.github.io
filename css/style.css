@@ -3,13 +3,13 @@ body {
     color: #c6d0f5; /* Text color */
     font-family: 'Arial', sans-serif; /* Arial font */
     text-align: center; /* Center all text horizontally */
-	text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #ff00ff, 0 0 30px #ff00ff, 0 0 40px #ff00ff, 0 0 55px #ff00ff, 0 0 75px #ff00ff; /* Glowing effect */
+	text-shadow: 0 0 2px #c6d0f5, 0 0 5px #c6d0f5;
     /*padding: 20px; /* Offset text from the edges by 20px */
 }
 
 h1, h2, h3, h4, h5, h6 {
     color: #ca9ee6; /* Mauve for headings */
-	text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #ff00ff, 0 0 30px #ff00ff, 0 0 40px #ff00ff, 0 0 55px #ff00ff, 0 0 75px #ff00ff; /* Glowing effect */
+	text-shadow: 0 0 2px #c6d0f5, 0 0 5px #c6d0f5;
 }
 
 p {
