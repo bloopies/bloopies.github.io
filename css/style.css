@@ -3,7 +3,7 @@ body {
     color: #c6d0f5; /* Text color */
     font-family: 'Arial', sans-serif; /* Arial font */
     text-align: center; /* Center all text horizontally */
-    padding: 20px; /* Offset text from the edges by 20px */
+    /*padding: 20px; /* Offset text from the edges by 20px */
 }
 
 h1, h2, h3, h4, h5, h6 {
