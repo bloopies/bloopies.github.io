@@ -3,18 +3,16 @@ body {
     color: #c6d0f5; /* Text color */
     font-family: 'Arial', sans-serif; /* Arial font */
     text-align: center; /* Center all text horizontally */
-	 text-shadow: 0 0 1px #c6d0f5, 0 0 1px #c6d0f5;
-	 /*padding: 20px; /* Offset text from the edges by 20px */
+		 /*padding: 20px; /* Offset text from the edges by 20px */
 }
 
 h1, h2, h3, h4, h5, h6 {
     color: #ca9ee6; /* Mauve for headings */
-	text-shadow: 0 0 1px #ca9ee6, 0 0 1px #ca9ee6;}
+}
 
 p {
     color: #c6d0f5; /* Lavender for paragraphs */
-	text-shadow: 0 0 1px #c6d0f5, 0 0 1px #c6d0f5;
-}
+	}
 
 a {
     color: #8CAAEE; /* Blue for links */
