@@ -1,29 +1,39 @@
-/* Set the background color of the entire website */
 body {
-    background-color: #303446; /* AliceBlue background color */
-    color: #c6d0f5; /* Dark gray text color */
+    background-color: #303446; /* Base background color */
+    color: #c6d0f5; /* Text color */
     font-family: 'Arial', sans-serif; /* Arial font */
+    text-align: center; /* Center all text horizontally */
+    padding: 20px; /* Offset text from the edges by 20px */
 }
 
-/* Set specific styles for headings */
 h1, h2, h3, h4, h5, h6 {
-    color: #ca9ee6; /* Dark cyan text color */
-    font-family: 'Georgia', serif; /* Georgia font */
+    color: #ca9ee6; /* Mauve for headings */
 }
 
-/* Set specific styles for paragraphs */
 p {
-    color: #c6d0f5; /* Lighter gray text color */
-    font-family: 'Verdana', sans-serif; /* Verdana font */
+    color: #c6d0f5; /* Lavender for paragraphs */
 }
 
-/* Example of styling links */
 a {
-    color: #ef9f76; /* OrangeRed color for links */
+    color: #8CAAEE; /* Blue for links */
     text-decoration: none; /* Remove underline from links */
 }
 
 a:hover {
     text-decoration: underline; /* Underline links on hover */
+}
+
+/* Example button styling */
+button {
+    background-color: #81C8BE; /* Teal for buttons */
+    color: #303446; /* Base background color for button text */
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #99D1DB; /* Sky for button hover */
 }
 
