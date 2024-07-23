@@ -1,21 +1,21 @@
 body {
     background-color: #303446; /* Base background color */
-    color: #eebebe; /* Text color */
+    color: #f4b8e4; /* Text color */
     font-family: 'Arial', sans-serif; /* Arial font */
     text-align: center; /* Center all text horizontally */
 		 /*padding: 20px; /* Offset text from the edges by 20px */
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: #eebebe; /* Mauve for headings */
+    color: #f4b8e4; /* Mauve for headings */
 }
 
 p {
-    color: #eebebe; /* Lavender for paragraphs */
+    color: #f4b8e4; /* Lavender for paragraphs */
 	}
 
 a {
-    color: #8CAAEE; /* Blue for links */
+    color: #f4b8e4; /* Blue for links */
     text-decoration: none; /* Remove underline from links */
 }
 
